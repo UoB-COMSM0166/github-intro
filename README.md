@@ -22,7 +22,7 @@ This will not be the same repository as the one you will use for your coursework
 
 ## 2. Create a repository
 
-Only one member of your team needs to complete this section but everyone should follow along with what they are doing.
+<ins>Only one member of your team needs to complete this section</ins> but everyone should follow along with what they are doing.
 
 1. In the upper-right corner of any page, select plus, then click New repository.
 
