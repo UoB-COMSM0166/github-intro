@@ -1,5 +1,5 @@
 # GitHub Intro
-Software Engineering Discipline and Practice (COMSM0110) Introduction to Git &amp; GitHub.
+Software Engineering Discipline and Practice (COMSM0166) Introduction to Git &amp; GitHub.
 
 By the end of this session you should have:
 - Created a GitHub account
