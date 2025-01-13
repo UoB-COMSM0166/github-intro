@@ -1,5 +1,5 @@
 # GitHub Intro
-Overview of Software Engineering (COMSM0110) Introduction to Git &amp; GitHub.
+Software Engineering Discipline and Practice (COMSM0110) Introduction to Git &amp; GitHub.
 
 By the end of this session you should have:
 - Created a GitHub account
@@ -86,7 +86,7 @@ Each team member should try out pushing code by editing the README.md file to in
 
 Since we haven't got on to how to use branches yet, only one team member should do this section at once.
 
-1. Use VSCode to add your name, university email address and GitHub username in the format `<name>, <email>, <github-username>`. e.g. `Alex Elwood, wh20899@bristol.ac.uk, alexelwood14`
+1. Use VSCode to add your name, university email address and GitHub username in the format `<name>, <email>, <github-username>`. e.g. `Alex Cockrean, no22498@bristol.ac.uk, ABenC377`
 
 2. Use the source control tab in the left sidebar to commit changes to the readme (see additional [docs](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit:~:text=the%20current%20workspace.-,Commit,-Staging%20(git%20add)) if you are stuck).
 
@@ -98,7 +98,7 @@ Since we haven't got on to how to use branches yet, only one team member should 
 
 ## 6. Send us your repository
 
-Once each team member has their name, university email address and GitHub username in the README.md, send a link to your repository to Alex Elwood on Teams. In the next few days we will be setting up your coursework repositories and sending out joining invites.  
+Once each team member has their name, university email address and GitHub username in the README.md, send a link to your repository to Alex Cockrean on Teams. In the next few days we will be setting up your coursework repositories and sending out joining invites.  
 
 ## 7. Further tasks on Branches (Optional)
 
