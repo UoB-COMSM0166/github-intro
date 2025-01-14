@@ -22,7 +22,7 @@ This will not be the same repository as the one you will use for your coursework
 
 ## 2. Create a repository
 
-<ins>Only one member of your team needs to complete this section</ins> but everyone should follow along with what they are doing.
+<ins>Only one member of your team needs to complete this section</ins> but everyone should follow along with what they are doing. (Please note, this is not the Repo that you'll be using for the games project -- I'll make that for you later this week.  This is just for you to get me your team's details).
 
 1. In the upper-right corner of any page, select plus, then click New repository.
 
