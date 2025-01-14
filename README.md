@@ -20,9 +20,9 @@ This will not be the same repository as the one you will use for your coursework
 
 *We recommend creating a GitHub account using a personal email address. This will allow you to use the account after leaving the university.*
 
-## 2. Add SSH key
+## 2. Add SSH key to your GitHub account
 
-In order for your computer to communicate with GitHub securely, it's best to use SSH. 
+In order for your computer to communicate with GitHub securely, it's best to use SSH with GitHub. 
 1. Open drop-down menu by clicking on your profile picture in the top right.
 2. Go to 'Settings'.
 3. Choose 'SSH and GPG keys' from the menu on the left.
