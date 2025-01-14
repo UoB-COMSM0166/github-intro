@@ -64,7 +64,7 @@ All team members should complete this section.
 
 ![Alt text](images/clone.png)
 
-2. Copy the HTTPS address provided
+2. Copy the SSH address provided
 
 ![Alt text](images/clone-copy.png)
 
