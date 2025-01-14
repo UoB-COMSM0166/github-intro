@@ -20,7 +20,18 @@ This will not be the same repository as the one you will use for your coursework
 
 *We recommend creating a GitHub account using a personal email address. This will allow you to use the account after leaving the university.*
 
-## 2. Create a repository
+## 2. Add SSH key
+
+In order for your computer to communicate with GitHub securely, it's best to use SSH. 
+1. Open drop-down menu by clicking on your profile picture in the top right.
+2. Go to 'Settings'.
+3. Choose 'SSH and GPG keys' from the menu on the left.
+4. Click 'New SSH key'.
+5. Give it any name you like, and add you ssh <ins>PUBLIC</ins> key to the text box labelled 'Key'.  Then click 'Add SSH key'.
+
+Your SSH keys should be found in the .ssh folder in the home directory of your computer, and the public keys will be in a file ending with '.pub'.  (The .ssh folder is a hidden folder, so you can cd into it normally, but it will not be visible to 'ls' unless you add the -a flag).
+
+## 3. Create a repository
 
 <ins>Only one member of your team needs to complete this section</ins> but everyone should follow along with what they are doing. (Please note, this is not the Repo that you'll be using for the games project -- I'll make that for you later this week.  This is just for you to get me your team's details).
 
@@ -40,7 +51,7 @@ This will not be the same repository as the one you will use for your coursework
 
 5. Click `Create Repository`.
 
-## 3. Add team members to your repository
+## 4. Add team members to your repository
 
 Only one member of your team needs to complete this section but everyone should follow along with what they are doing.
 
@@ -56,7 +67,7 @@ Only one member of your team needs to complete this section but everyone should 
 
 All team members should now have permission to clone the repository and push new or edited code.
 
-## 4. Clone your repository
+## 5. Clone your repository
 
 All team members should complete this section. 
 
@@ -80,7 +91,7 @@ All team members should complete this section.
 
 VSCode should automatically open the local repository in the current browser.
 
-## 5. Edit the README.md
+## 6. Edit the README.md
 
 Each team member should try out pushing code by editing the README.md file to include their name, university email address and GitHub username. It is essential that you complete this section as this information will allow us to setup your coursework repository.
 
@@ -96,10 +107,10 @@ Since we haven't got on to how to use branches yet, only one team member should 
 
 ![Alt text](images/sync.png)
 
-## 6. Send us your repository
+## 7. Send us your repository
 
 Once each team member has their name, university email address and GitHub username in the README.md, send a link to your repository to Alex Cockrean on Teams. In the next few days we will be setting up your coursework repositories and sending out joining invites.  
 
-## 7. Further tasks on Branches (Optional)
+## 8. Further tasks on Branches (Optional)
 
 The next essential feature of Git is branches. Take a look at the GitHub [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) on branches and have a go using branches interacting with branches in your test repository. Note: this task has a lot of overlap with Overview of Software Tools.
